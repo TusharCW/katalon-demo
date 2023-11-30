@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_undefined</name>
+   <tag></tag>
+   <elementGuidId>7a86d697-b5e4-4935-96ae-b95dbfa480a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c64-103.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-2-1']/div/div[2]/div/table/tbody/tr/td[3]/div/mat-form-field/div/div/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e17fb1e8-6e48-4311-bd94-16096f0c7cc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c64-103 ng-star-inserted</value>
+      <webElementGuid>e9aede94-b2ef-4764-911f-9154b36c8a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> + undefined</value>
+      <webElementGuid>37bc966e-deca-4fc0-a5cc-d02bcac14eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-2-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c145-49 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;matcard_content ng-star-inserted&quot;]/div[@class=&quot;scaling-table tabledesign ng-pristine ng-valid ng-touched&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form_group ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c64-103 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c64-103&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c64-103&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c64-103 ng-star-inserted&quot;]/span[@class=&quot;ng-tns-c64-103 ng-star-inserted&quot;]</value>
+      <webElementGuid>1a4a9fac-0e53-4891-a92f-78d26b57b533</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-2-1']/div/div[2]/div/table/tbody/tr/td[3]/div/mat-form-field/div/div/div[4]/span</value>
+      <webElementGuid>397d6dcb-28ca-4e39-8065-a40c0d586e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::span[4]</value>
+      <webElementGuid>fab1da43-2961-428b-b31a-a764df2cd46a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effectiv ROI'])[1]/following::span[4]</value>
+      <webElementGuid>e4c63b1a-9fee-4bc7-87cb-0616a74a7aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::span[3]</value>
+      <webElementGuid>85aec9c5-5c8a-4a90-a347-97fcfa901814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+ undefined']/parent::*</value>
+      <webElementGuid>e95dd769-af87-41f2-becf-1be5644471c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>9ed29f38-2aa3-4281-9273-29f783681b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' + undefined' or . = ' + undefined')]</value>
+      <webElementGuid>9d12cb84-95a8-4116-bf11-1c568ec5a2c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No_mat-slide-toggle-bar_1</name>
+   <tag></tag>
+   <elementGuidId>5f0223cf-7765-4f2b-b859-480b307e370a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-slide-toggle-6 > label.mat-slide-toggle-label > span.mat-slide-toggle-bar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-slide-toggle[@id='mat-slide-toggle-6']/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>039d3c89-f43b-43aa-a242-0629b0b6b3a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-slide-toggle-bar</value>
+      <webElementGuid>acbe5500-158b-493c-9f4d-90b6243454e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-slide-toggle-6&quot;)/label[@class=&quot;mat-slide-toggle-label&quot;]/span[@class=&quot;mat-slide-toggle-bar&quot;]</value>
+      <webElementGuid>ba649dfe-ad1b-4733-b415-c912e59562ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-slide-toggle[@id='mat-slide-toggle-6']/label/span</value>
+      <webElementGuid>5467cd77-4d5c-4833-b603-2b52ea9a514d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow borrower with No CMR :'])[3]/following::span[1]</value>
+      <webElementGuid>a18078aa-cedb-4ca8-8bfa-15aa0169537f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel[7]/div/div/app-rang-input/div/ng-contaner/ng-contaner/div/div/div/div/mat-slide-toggle/label/span</value>
+      <webElementGuid>84f9138b-acbc-4e15-b9ad-96ef8d562ac6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

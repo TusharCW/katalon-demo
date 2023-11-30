@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Parameter_1</name>
+   <tag></tag>
+   <elementGuidId>4f0c5242-a8f4-498e-80ea-72d897cb4e9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c64-238</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-4-2']/div/app-common-product-component/div/form/div/div[2]/div/div[2]/mat-form-field/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6dc75c53-0556-44b7-9173-43fda8f4d971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c64-238</value>
+      <webElementGuid>a9948450-0f42-4f05-af87-305620612d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Parameter</value>
+      <webElementGuid>1178ee0d-658b-4589-a0d6-e63b903e555b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-4-2&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c145-185 ng-trigger ng-trigger-translateTab&quot;]/app-common-product-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;create_product_main&quot;]/form[@class=&quot;ng-valid ng-star-inserted ng-touched ng-dirty&quot;]/div[@class=&quot;matcard_content&quot;]/div[@class=&quot;scaling-select&quot;]/div[@class=&quot;matselect_design&quot;]/div[@class=&quot;form_group&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c64-238 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-outline mat-form-field-can-float ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c64-238&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c64-238&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c64-238&quot;]</value>
+      <webElementGuid>688ed92c-f2df-476d-9722-adc7aa1e9891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-4-2']/div/app-common-product-component/div/form/div/div[2]/div/div[2]/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>262edf69-a1d3-4c60-89ac-a92ffc367600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penal Interest Based On'])[1]/following::div[11]</value>
+      <webElementGuid>3af657e1-c3f9-427c-a974-ad1e9c071dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Required'])[1]/following::div[17]</value>
+      <webElementGuid>e0a4f30e-508b-458b-9e68-70fadd1cb0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filters'])[1]/preceding::div[11]</value>
+      <webElementGuid>0d4636cc-fbfd-45a8-b341-7c6f5e160bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/mat-form-field/div/div/div[3]</value>
+      <webElementGuid>78af854f-1c15-4e5a-87fe-c7143aa9cbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Parameter' or . = 'Select Parameter')]</value>
+      <webElementGuid>1c646e9b-524f-42b1-afb5-b3a8ece6f8e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

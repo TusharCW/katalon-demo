@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1 Consumer bureau score</name>
+   <tag></tag>
+   <elementGuidId>cdabc0be-78eb-4462-ad0b-4e0a0f6503e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tile-accordian</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/mat-panel-title/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4535802f-ad1f-4a77-8ea8-48c3a502be68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tile-accordian</value>
+      <webElementGuid>e1c6a7a1-3f86-483b-a461-e32838f5d93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1 Consumer bureau score </value>
+      <webElementGuid>1d92bbb1-c6ab-4ffc-ab30-fbcdbf9c4a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-expansion-panel-header-0&quot;)/span[@class=&quot;mat-content ng-tns-c131-59&quot;]/mat-panel-title[@class=&quot;mat-expansion-panel-header-title ng-tns-c131-59&quot;]/div[@class=&quot;tile-accordian&quot;]</value>
+      <webElementGuid>086bff9c-7699-41b7-8703-aa1c13265113</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-expansion-panel-header[@id='mat-expansion-panel-header-0']/span/mat-panel-title/div</value>
+      <webElementGuid>7264c027-4f95-47eb-b507-dd782098946a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expand All'])[1]/following::div[2]</value>
+      <webElementGuid>60f5d337-669a-444c-a3fb-66208dd5afc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Matching Parameters'])[2]/following::div[3]</value>
+      <webElementGuid>3333f795-2b2c-463b-ad9e-c715754ab60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::div[1]</value>
+      <webElementGuid>a57ab409-a096-4279-a909-8a288f77ca10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Existing To Credit Range :'])[1]/preceding::div[1]</value>
+      <webElementGuid>36597d7c-2686-4f19-af91-0164b23a426a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consumer bureau score']/parent::*</value>
+      <webElementGuid>c1190fb1-aa33-4126-8a7a-7c905b3d5f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-panel-title/div</value>
+      <webElementGuid>8523e126-02da-45d5-8ae8-59cd821ff9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1 Consumer bureau score ' or . = '1 Consumer bureau score ')]</value>
+      <webElementGuid>3cd8e43c-c121-41a0-bfbe-9317d4a8cd54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

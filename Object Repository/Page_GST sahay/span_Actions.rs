@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Actions</name>
+   <tag></tag>
+   <elementGuidId>d8edac03-9538-4877-af34-2bb34e29c3d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-trigger.select_button.mat-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-3-1']/div/div/div/app-data-table/div/div/table/tbody/tr/td[6]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eb2dfd1f-9fd5-4d10-a0a2-9a2b5350a304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>aef00971-9f35-4f20-b9f0-caf59e58ffc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Actions </value>
+      <webElementGuid>bce717b5-5396-4561-9162-3b0969a48f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-3-1&quot;)/div[@class=&quot;mat-tab-body-content ng-tns-c145-123 ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;matcard_content ng-star-inserted&quot;]/div[@class=&quot;tabledesign&quot;]/app-data-table[1]/div[@class=&quot;matcard_content matcard_content_with_bg&quot;]/div[@class=&quot;tabledesign ng-star-inserted&quot;]/table[@class=&quot;table ng-star-inserted&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-trigger select_button mat-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>e3708f6e-7718-4f1b-8c1f-02c4e7b9abfe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-3-1']/div/div/div/app-data-table/div/div/table/tbody/tr/td[6]/button/span</value>
+      <webElementGuid>4c8e0e58-b969-4b5c-8ad2-e9b187fec1d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White Labelled'])[1]/following::span[1]</value>
+      <webElementGuid>3587c4d1-54d4-4287-adb8-71ba0a3c31bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standard'])[1]/following::span[1]</value>
+      <webElementGuid>8fb3b0ec-c942-42e1-8ad6-7a9bdc9c9c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rj1'])[1]/preceding::span[3]</value>
+      <webElementGuid>259d0caf-cf3d-452f-85fb-96ac81a11c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Standard'])[2]/preceding::span[3]</value>
+      <webElementGuid>5c37137d-1160-4e55-9bf3-6b70c5f6ae21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Actions']/parent::*</value>
+      <webElementGuid>dfd2c3cf-0fa2-4e43-9f6b-7fda69a757c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/button/span</value>
+      <webElementGuid>88cc129a-55cd-4eec-a9ba-048d1f83edc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Actions ' or . = ' Actions ')]</value>
+      <webElementGuid>4bbebc0c-9fa8-45fd-b3bd-407f05585031</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

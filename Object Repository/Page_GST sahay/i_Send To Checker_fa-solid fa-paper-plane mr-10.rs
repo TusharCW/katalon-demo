@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Send To Checker_fa-solid fa-paper-plane mr-10</name>
+   <tag></tag>
+   <elementGuidId>0149e27a-cfbc-48ee-a14b-22cf5fe16d7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-paper-plane.mr-10</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[3]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>df899da5-2bc3-4c67-bcbe-43c5adc21db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-paper-plane mr-10</value>
+      <webElementGuid>579a3f8c-73af-4174-a2f5-40e3a98f4a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-header[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;with_sidebar&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/div[@class=&quot;page_content_area&quot;]/app-create-product-scaling-matrix[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;create_product_main&quot;]/div[@class=&quot;page_details&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator create_product_mat&quot;]/div[@class=&quot;matcard_header&quot;]/div[@class=&quot;top_side&quot;]/div[@class=&quot;right_side ng-star-inserted&quot;]/div[@class=&quot;rigth_btn&quot;]/a[@class=&quot;mat-focus-indicator mat_theme_btn checker_btn mat-flat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/i[@class=&quot;fa-solid fa-paper-plane mr-10&quot;]</value>
+      <webElementGuid>8fead1c6-3e97-4dfd-b169-65abab70e1a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span/i</value>
+      <webElementGuid>d1779285-7f9d-4bbf-8fc2-f48f4e031996</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
